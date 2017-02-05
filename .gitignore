@@ -1,0 +1,7 @@
+copy_reference_file.log
+dependency-reduced-pom.xml
+settings-docker.xml
+.project
+.classpath
+/.settings/*
+/target/*
