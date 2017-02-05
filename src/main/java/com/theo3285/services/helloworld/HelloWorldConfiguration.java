@@ -1,4 +1,4 @@
-package com.bnpparibas.services.helloworld;
+package com.theo3285.services.helloworld;
 
 import io.dropwizard.Configuration;
 import com.fasterxml.jackson.annotation.JsonProperty;

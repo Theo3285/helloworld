@@ -1,4 +1,4 @@
-package com.bnpparibas.services.helloworld.health;
+package com.theo3285.services.helloworld.health;
 
 import com.codahale.metrics.health.HealthCheck;
 

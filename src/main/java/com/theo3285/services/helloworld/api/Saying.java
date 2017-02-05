@@ -1,4 +1,4 @@
-package com.bnpparibas.services.helloworld.api;
+package com.theo3285.services.helloworld.api;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import org.hibernate.validator.constraints.Length;
