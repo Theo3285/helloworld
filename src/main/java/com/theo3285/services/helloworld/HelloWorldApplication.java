@@ -1,6 +1,6 @@
 package com.theo3285.services.helloworld;
 
-import com.bnpparibas.services.helloworld.health.TemplateHealthCheck;
+import com.theo3285.services.helloworld.health.TemplateHealthCheck;
 import com.theo3285.services.helloworld.resources.HelloWorldResource;
 
 import io.dropwizard.Application;

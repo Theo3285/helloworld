@@ -1,6 +1,6 @@
 package com.theo3285.services.helloworld.resources;
 
-import com.bnpparibas.services.helloworld.api.Saying;
+import com.theo3285.services.helloworld.api.Saying;
 import com.google.common.base.Optional;
 import com.codahale.metrics.annotation.Timed;
 

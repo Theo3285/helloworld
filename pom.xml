@@ -9,7 +9,7 @@
         <maven>3.0.0</maven>
     </prerequisites>
 
-    <groupId>com.bnpparibas.services</groupId>
+    <groupId>com.theo3285.services</groupId>
     <artifactId>helloworld</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
@@ -20,7 +20,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <dropwizard.version>0.9.0</dropwizard.version>
-        <mainClass>com.bnpparibas.services.helloworld.HelloWorldApplication</mainClass>
+        <mainClass>com.theo3285.services.helloworld.HelloWorldApplication</mainClass>
     </properties>
 
     <dependencyManagement>
